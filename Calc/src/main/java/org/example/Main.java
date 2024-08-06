@@ -28,5 +28,7 @@ public class Main {
 
         resultado = calculadora.valorMultiplicacao(n1, n2);
         System.out.println("O resultado da multiplicação é: " + resultado);
+
+        //Calculadora finalizada
     }
 }
